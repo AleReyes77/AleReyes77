@@ -29,9 +29,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=750&height=120&lines=Welcome+to+my+profile;I'm+Full+Stack+Developer+with+7%2B+years+of+experience;React+%7C+Node.js+%7C+Python;Backend+Architect+%7C+Domain-Driven+Design;REST+APIs+%7C+Microservices;High+Performance+%7C+Scalability;AWS+%7C+Azure+%7C+CI%2FCD;Passionate+about+Cybersecurity" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" alt="Matrix Code" width="300" />
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" alt="Dino" width="375" />
 </p>
 
