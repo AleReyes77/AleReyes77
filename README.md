@@ -18,11 +18,11 @@
 
 ### 👨‍💻 Full Stack Software Engineer
 
-### 🏗️ Software Architecture • System Design • Cloud • DevOps • AI
+### 🏗️ Web Development • Software Architecture • DevOps • Security
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=100&lines=Full+Stack+Software+Engineer;Building+Scalable+Software+Systems;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Python+%7C+Django;Software+Architecture+%7C+System+Design;Cloud+%7C+DevOps+%7C+CI%2FCD;Security+%7C+Performance+%7C+Testing;AI+%7C+LLMs+%7C+Modern+Software+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=100&lines=Full+Stack+Software+Engineer;8%2B+Years+Building+Web+Applications;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Python+%7C+Django+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+Linux;Security-Minded+Developer+%7C+CTF+Player;AI+%7C+LLM+APIs+%7C+RAG" alt="Typing SVG" />
   </a>
 </p>
 
@@ -48,44 +48,34 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+  <!-- Uncomment and add your profile URL:
+  <a href="https://tryhackme.com/p/YOUR_USER">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  -->
+
 </p>
 
 ---
 
 # 👋 Hi, I'm Jose Alejandro Varela Reyes
 
-### Full Stack Software Engineer | Software Architecture | System Design
+### Full Stack Software Engineer | Web Applications | Security-Minded Development
 
-I am a **Full Stack Software Engineer** focused on designing, developing and maintaining **scalable, secure, performant and maintainable software systems**.
+I'm a **Full Stack Software Engineer with 8+ years of experience** building and maintaining web applications, mostly with **TypeScript, React, Next.js, Node.js and PostgreSQL**.
 
-I enjoy solving complex engineering problems, designing clean architectures, improving application performance and transforming business requirements into reliable software.
-
-My approach goes beyond simply writing code.
-
-I care about the complete software lifecycle:
+Alongside development, I've spent **4+ years practicing cybersecurity** through labs and CTFs. It changed how I write code: I think about how something can break or be abused before it reaches production.
 
 ```text
-Requirements
+Understand the problem
      ↓
-Domain Understanding
+Keep the design simple
      ↓
-Architecture
+Build, test and secure it
      ↓
-Development
+Ship it with CI/CD
      ↓
-Testing
-     ↓
-Security
-     ↓
-CI/CD
-     ↓
-Deployment
-     ↓
-Monitoring
-     ↓
-Optimization
-     ↓
-Long-Term Maintenance
+Monitor and improve
 ```
 
 > 🚀 **I don't just build applications. I build software designed to last.**
@@ -94,24 +84,22 @@ Long-Term Maintenance
 
 # 🚀 Quick Facts
 
-* 💼 **Full Stack Software Engineer** with 7+ years of experience
+* 💼 **8+ years** of full stack development
 * 🔭 Currently working as a **Freelance Software Developer**
-* 🏗️ Interested in **Software Architecture & System Design**
-* ⚡ Passionate about **performance, scalability and software quality**
-* 🔐 Security-minded software development
-* 🧪 Strong interest in **testing and reliability**
-* ☁️ Exploring **Cloud Computing, Kubernetes and Distributed Systems**
-* 🤖 Exploring **Artificial Intelligence, LLMs and AI-powered applications**
-* 🌱 Continuous learner focused on modern software engineering
-* 👯 Open to collaborating on **open-source and enterprise projects**
-* 💬 Ask me about **React, Next.js, Node.js, Python, Django, APIs, Databases, Architecture and System Design**
-* 👨‍🏫 Interested in **mentoring developers and sharing knowledge**
+* 🔐 **4+ years** of hands-on security practice (Kali Linux, Termux, CTFs, labs)
+* 🏗️ Focused on **maintainable code, performance and secure defaults**
+* 🤖 Integrating **LLM APIs** into real product features
+* 💬 Ask me about **React, Next.js, Node.js, Django, PostgreSQL, Docker and web security**
 
 ---
 
 # 🛠️ Tech Stack
 
+> ✅ **Core** = what I use daily and can go deep on · 🔹 **Familiar** = used in real projects, not my main focus
+
 ## 🎨 Frontend
+
+### ✅ Core
 
 <p align="left">
 
@@ -122,6 +110,13 @@ Long-Term Maintenance
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+</p>
+
+### 🔹 Familiar
+
+<p align="left">
+
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
@@ -129,24 +124,18 @@ Long-Term Maintenance
 
 </p>
 
-### Frontend Engineering
+### What I do
 
-* Component-Based Architecture
-* Responsive Design
-* Accessibility & WCAG
-* SEO
-* Web Performance
-* Lazy Loading
-* Code Splitting
-* Dynamic Imports
-* Rendering Optimization
-* State Management
-* Progressive Web Applications
-* Core Web Vitals
+* Next.js App Router, Server Components, SSR / SSG
+* Responsive, accessible UIs (WCAG basics, semantic HTML)
+* State and data fetching (TanStack Query, Redux Toolkit)
+* Performance: Core Web Vitals, code splitting, image optimization
 
 ---
 
 # ⚙️ Backend
+
+### ✅ Core
 
 <p align="left">
 
@@ -154,63 +143,57 @@ Long-Term Maintenance
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</p>
+
+### 🔹 Familiar
+
+<p align="left">
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 
 </p>
 
-### Backend Engineering
+### What I do
 
-* RESTful API Design
-* GraphQL APIs
-* Authentication & Authorization
-* RBAC
-* JWT
-* OAuth 2.0
-* API Versioning
-* Middleware Architecture
-* Validation
-* Error Handling
-* Logging
-* Background Jobs
-* File Processing
-* Email Services
-* Payment Integrations
-* Third-Party API Integrations
+* REST API design, validation and error handling
+* Authentication & authorization (sessions, JWT, OAuth 2.0, RBAC)
+* Background jobs, file uploads and email
+* Payment and third-party API integrations
 
 ---
 
 # 🗄️ Databases
 
+### ✅ Core
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+</p>
+
+### 🔹 Familiar
+
+<p align="left">
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </p>
 
-### Database Engineering
+### What I do
 
-* Relational Database Design
-* Data Modeling
-* Normalization
-* Indexing Strategies
-* Query Optimization
-* Transactions
-* ACID Principles
-* Constraints
-* Database Migrations
-* Backup Strategies
-* NoSQL Modeling
-* Caching
-* Data Migration
-* Performance Tuning
+* Schema design, normalization and migrations (Prisma, Django ORM)
+* Indexing and fixing slow queries with `EXPLAIN`
+* Transactions and data integrity
+* Caching with Redis
 
 ---
 
@@ -227,38 +210,9 @@ Long-Term Maintenance
 
 </p>
 
-### Architecture & Design
-
-* Clean Architecture
-* Layered Architecture
-* Modular Architecture
-* Domain-Driven Design concepts
-* SOLID Principles
-* DRY
-* KISS
-* YAGNI
-* Separation of Concerns
-* Dependency Injection
-* Design Patterns
-* Domain Modeling
-* API Design
-* System Design
-* Scalability
-* Maintainability
-* Technical Debt Management
-
-### Distributed Systems
-
-* Microservices
-* Event-Driven Architecture
-* Message Queues
-* Asynchronous Processing
-* Caching Strategies
-* Load Balancing
-* Fault Tolerance
-* Service Communication
-* Eventual Consistency
-* Distributed Data Concepts
+* **Applied in my projects:** layered / clean architecture, SOLID, common design patterns, modular monoliths
+* **Familiar with:** DDD concepts, microservices, event-driven design and message queues
+* I prefer the simplest design that works and split things up only when there's a real reason to
 
 > 🧠 **Good architecture is not about adding complexity. It is about managing complexity.**
 
@@ -276,19 +230,10 @@ Long-Term Maintenance
 
 </p>
 
-* Unit Testing
-* Integration Testing
-* End-to-End Testing
-* API Testing
-* Regression Testing
-* Mocking
-* Code Reviews
-* Static Analysis
-* Linting
-* Formatting
-* Refactoring
-* Technical Debt Reduction
-* CI Quality Gates
+* Unit and integration tests for business logic and APIs
+* End-to-end tests for critical user flows
+* Linting, formatting and tests running in CI on every push
+* Code reviews and incremental refactoring
 
 ---
 
@@ -304,105 +249,98 @@ Long-Term Maintenance
 
 </p>
 
-### Security Practices
+### Secure Development (in my day-to-day work)
 
-* Authentication
-* Authorization
-* RBAC
-* Secure Session Management
-* Password Security
-* JWT
-* OAuth 2.0
-* Input Validation
-* Secure API Design
-* HTTPS
-* CORS
-* CSRF
-* XSS Prevention
-* SQL Injection Prevention
-* Rate Limiting
-* Secure Headers
-* Secrets Management
-* Dependency Security
-* OWASP Principles
+* Preventing the OWASP Top 10: XSS, SQL injection, CSRF, IDOR, SSRF
+* Secure authentication, password hashing (Argon2 / bcrypt) and sessions
+* Input validation, rate limiting, secure headers (CSP, HSTS) and CORS
+* Secrets management and dependency scanning (Dependabot, npm audit)
+
+---
+
+# 🛡️ Cybersecurity & Ethical Hacking
+
+**4+ years of self-directed practice** in labs, CTFs and personal environments. Always in authorized and legal settings.
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+
+</p>
+
+### Strongest area: Web Application Security
+
+* Testing web apps with Burp Suite (interception, repeater, intruder)
+* Finding and exploiting common web vulnerabilities in labs
+* Directory and parameter discovery (ffuf, Gobuster)
+
+### Also practiced in labs and CTFs
+
+* Network scanning and enumeration (Nmap)
+* Basic exploitation with Metasploit
+* Linux privilege escalation
+* Traffic analysis with Wireshark
+* Password hash cracking (Hashcat, John the Ripper)
+
+### Environment
+
+* **Kali Linux** as my main security environment
+* **Termux** on Android for Linux tooling and scripting on the go
+* Bash and Python scripts to automate repetitive tasks
+
+<!-- Add your writeups repo when ready:
+📝 **Writeups:** [github.com/AleReyes77/ctf-writeups](https://github.com/AleReyes77/ctf-writeups)
+-->
 
 ---
 
 # ⚡ Performance Engineering
 
-I enjoy identifying bottlenecks and improving software performance.
-
-### Frontend
-
-* Lazy Loading
-* Code Splitting
-* Dynamic Imports
-* Rendering Optimization
-* Memoization
-* Image Optimization
-* Browser Caching
-* Core Web Vitals
-* Bundle Optimization
-
-### Backend
-
-* Query Optimization
-* Database Indexing
-* Caching
-* Connection Pooling
-* Asynchronous Processing
-* Background Jobs
-* API Optimization
-* Resource Management
-
-### System Level
-
-* Profiling
-* Load Testing
-* Bottleneck Identification
-* Horizontal Scaling
-* Vertical Scaling
-* Caching Strategies
-* Performance Monitoring
+* **Frontend:** Core Web Vitals, lazy loading, image optimization, bundle size
+* **Backend:** query optimization, indexing, caching, async processing
+* **Approach:** measure first, then optimize the actual bottleneck
 
 ---
 
 # ☁️ DevOps & Cloud
 
+### ✅ Core
+
 <p align="left">
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
 </p>
 
-### DevOps
+### 🔹 Familiar
 
-* Docker
-* Docker Compose
-* Kubernetes
-* Linux
-* CI/CD
-* GitHub Actions
-* Infrastructure as Code
-* Terraform
-* Reverse Proxies
-* Nginx
-* Environment Configuration
-* Containerization
-* Deployment Automation
-* Cloud Architecture
-* Monitoring
-* Logging
-* Infrastructure Security
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+
+</p>
+
+### What I do
+
+* Containerizing apps with Docker and Docker Compose
+* CI/CD pipelines with GitHub Actions (lint, test, build, deploy)
+* Linux VPS setup, Nginx reverse proxy and SSL
+* Deploying to cloud providers and managing environments
 
 ---
 
@@ -424,143 +362,48 @@ I enjoy identifying bottlenecks and improving software performance.
 
 # 🤖 Artificial Intelligence & Modern Development
 
-I am interested in combining modern software engineering practices with Artificial Intelligence to build useful and reliable AI-powered applications.
-
-### Areas of Interest
-
-* Artificial Intelligence
-* Large Language Models
-* LLM APIs
-* AI Application Architecture
-* Retrieval-Augmented Generation
-* AI Agents
-* Prompt Engineering
-* AI-assisted Development
-* Vector Databases
-* AI Evaluation
-* Intelligent Automation
+* Integrating LLM APIs into web apps (chat, summaries, structured output)
+* Building basic RAG pipelines with embeddings and vector search
+* Awareness of LLM risks such as prompt injection
+* Using AI-assisted tools in my daily workflow, while still reviewing and understanding the code they produce
 
 > 🤖 **AI can generate code. Engineers still need to understand the systems that code belongs to.**
 
 ---
 
+# 📌 Featured Projects
+
+<!-- Replace with your real projects. 3–4 strong projects are better than 10 small ones. -->
+
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| [Project name](https://github.com/AleReyes77/REPO) | What it does and what problem it solves | Next.js · Node.js · PostgreSQL |
+| [Project name](https://github.com/AleReyes77/REPO) | What it does and what problem it solves | Django · Docker · GitHub Actions |
+| [CTF Writeups](https://github.com/AleReyes77/REPO) | Solutions and notes from labs and CTF machines | Kali Linux · Burp Suite · Nmap |
+
+---
+
 # 🏆 Highlighted Experience
 
-My engineering interests cover the complete **Software Development Life Cycle (SDLC)**.
+<!-- Add real numbers when you can: users, % faster, number of clients, etc. -->
 
-## 🎨 High-Performance Frontend
-
-* Modern applications with React and Next.js
-* Component-based architecture
-* Responsive interfaces
-* Accessibility
-* Performance optimization
-* Lazy loading
-* Code splitting
-* Dynamic imports
-* Rendering optimization
-* SEO
-* Progressive Web Applications
-
----
-
-## ⚙️ Scalable Backend
-
-* RESTful APIs
-* GraphQL APIs
-* Authentication & Authorization
-* RBAC
-* Middleware architecture
-* Exception handling
-* Validation
-* Logging
-* File upload systems
-* Email services
-* Payment integrations
-* API versioning
-* Background processing
-* Service integrations
-
----
-
-## 🗄️ Database Engineering
-
-* Relational database design
-* Query optimization
-* Indexing
-* Transactions
-* ACID principles
-* NoSQL modeling
-* Data migration
-* Backup strategies
-* Caching
-* Performance tuning
-
----
-
-## 🧪 Software Quality
-
-* Clean Code
-* SOLID Principles
-* DRY
-* KISS
-* YAGNI
-* Unit Testing
-* Integration Testing
-* End-to-End Testing
-* Code Reviews
-* Static Analysis
-* CI/CD quality gates
-* Refactoring
-* Technical debt management
-
----
-
-## ☁️ DevOps
-
-* Docker
-* Docker Compose
-* CI/CD
-* GitHub Actions
-* Environment configuration
-* Reverse proxy
-* Linux server management
-* Cloud infrastructure
-* Containerization
-* Deployment automation
-
----
-
-## 🏗️ Technical Leadership
-
-* Technical decision making
-* Architecture design
-* System design
-* Code reviews
-* Developer mentoring
-* Technical documentation
-* Engineering standards
-* Agile methodologies
-* Best practices definition
+* 🎨 Built and maintained **web applications for clients** with React and Next.js
+* ⚙️ Developed **REST APIs** with authentication, payments and third-party integrations
+* 🗄️ Designed **PostgreSQL schemas** and improved slow queries in production
+* ☁️ Set up **Docker-based deployments and CI/CD pipelines**
+* 🔐 Reviewed applications for **common security vulnerabilities** before release
+* 🤝 Worked directly with clients to turn **business requirements into software**
 
 ---
 
 # 📈 Engineering Principles
 
-I strongly believe in building software that is:
-
 | Principle                | Description                                              |
 | ------------------------ | -------------------------------------------------------- |
-| 🚀 **Scalable**          | Designed to handle growth in users, data and traffic     |
 | 🔧 **Maintainable**      | Easy to understand, modify and extend                    |
 | 🔐 **Secure**            | Security considered throughout the development lifecycle |
 | 🧪 **Testable**          | Designed with verification and reliability in mind       |
 | ⚡ **Performant**         | Efficient use of computational and network resources     |
-| ♻️ **Reusable**          | Components and modules designed for appropriate reuse    |
-| 🧩 **Modular**           | Clear boundaries and responsibilities                    |
-| 📖 **Documented**        | Important decisions and systems are understandable       |
-| 🔍 **Observable**        | Failures and performance problems can be detected        |
-| 🛠️ **Reliable**         | Designed to handle failures gracefully                   |
 | 🎯 **Business-Oriented** | Technology serves the actual business problem            |
 | 🧠 **Simple**            | Complexity is introduced only when justified             |
 
@@ -577,25 +420,13 @@ I also ask:
 ```text
 What problem are we actually solving?
 
-What are the real requirements?
+What is the simplest solution that works?
 
-What are the constraints?
+What can fail, and how could it be abused?
 
-What is the simplest viable architecture?
+How will we know if it breaks in production?
 
-What can fail?
-
-How will the system behave under load?
-
-How will it be secured?
-
-How will it be tested?
-
-How will it be monitored?
-
-How easy will it be to maintain?
-
-How will it evolve as the business grows?
+How easy will it be to change later?
 ```
 
 ---
@@ -608,11 +439,7 @@ How will it evolve as the business grows?
 └──────────┬───────────┘
            ↓
 ┌──────────────────────┐
-│ Domain Understanding │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│ Architecture & Design│
+│       Design         │
 └──────────┬───────────┘
            ↓
 ┌──────────────────────┐
@@ -620,31 +447,15 @@ How will it evolve as the business grows?
 └──────────┬───────────┘
            ↓
 ┌──────────────────────┐
-│       Testing        │
+│  Testing & Security  │
 └──────────┬───────────┘
            ↓
 ┌──────────────────────┐
-│      Security        │
+│ CI / CD & Deployment │
 └──────────┬───────────┘
            ↓
 ┌──────────────────────┐
-│       CI / CD        │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│     Deployment       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│     Monitoring       │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│     Optimization     │
-└──────────┬───────────┘
-           ↓
-┌──────────────────────┐
-│  Continuous Learning │
+│ Monitoring & Improve │
 └──────────────────────┘
 ```
 
@@ -652,60 +463,22 @@ How will it evolve as the business grows?
 
 # 📚 Currently Learning
 
-My current learning path includes:
-
-* ☸️ Kubernetes
-* 🏗️ Terraform
-* ☁️ AWS
-* ☁️ Azure
-* 🌐 Distributed Systems
-* 📨 Event-Driven Architecture
-* 📊 Event Sourcing
-* 🔄 CQRS
-* ⚡ Serverless Computing
-* 📈 Observability
-* 🔐 Advanced Application Security
-* 🤖 Artificial Intelligence
-* 🧠 Large Language Models
-* 🏗️ Advanced System Design
-
----
-
-# 🎯 Areas of Interest
-
-* 🏗️ Software Architecture
-* ⚙️ Backend Engineering
-* 🎨 Frontend Engineering
-* 🖥️ System Design
-* ☁️ Cloud Computing
-* 🌐 Distributed Systems
-* 🔐 Application Security
-* 🧪 Software Testing
-* ⚡ Performance Engineering
-* 🚀 DevOps
-* 🤖 Artificial Intelligence
-* 🧠 Developer Experience
-* 🌍 Open Source
-* 👨‍🏫 Technical Mentoring
+* ☸️ Kubernetes and Terraform in more depth
+* ☁️ Cloud architecture on AWS
+* 📈 Observability with OpenTelemetry
+* 🛡️ Advanced web exploitation and Active Directory basics
+* 🤖 AI agents and LLM application architecture
 
 ---
 
 # 💬 Let's Discuss
 
-I'm always interested in discussing:
-
-* 💡 Software Architecture
-* 🏗️ System Design
-* 🚀 Scalability
-* 🔒 Security
-* 🧪 Testing Strategies
+* 🌐 Full Stack Web Development
+* 🏗️ Software Architecture
+* 🔒 Web Security & CTFs
 * ⚡ Performance Optimization
-* ☁️ Cloud & DevOps
-* 🤖 AI & LLM Applications
+* 🤖 AI in Web Applications
 * 🌍 Open Source
-* 📚 Software Engineering
-* 👨‍💻 Developer Experience
-* 🤝 Mentoring & Knowledge Sharing
 
 ---
 
@@ -742,19 +515,13 @@ I'm always interested in discussing:
 I am open to collaborating on projects involving:
 
 ```text
-Software Architecture
-        +
 Full Stack Development
         +
-Cloud & DevOps
+Web Security
         +
-AI & Automation
+DevOps
         +
-Performance
-        +
-Security
-        +
-Open Source
+AI Features
 ```
 
 If you're building something interesting, feel free to connect.
@@ -786,13 +553,9 @@ I aim to solve the right problems.
 
 I build software that is:
 
-Scalable.
 Secure.
 Testable.
-Performant.
 Maintainable.
-Observable.
-Reliable.
 
 And most importantly...
 
