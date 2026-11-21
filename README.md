@@ -373,13 +373,14 @@ Monitor and improve
 
 # 📌 Featured Projects
 
-<!-- Replace with your real projects. 3–4 strong projects are better than 10 small ones. -->
-
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
-| [Project name](https://github.com/AleReyes77/REPO) | What it does and what problem it solves | Next.js · Node.js · PostgreSQL |
+| [ClientHub](https://github.com/AleReyes77/clienthub) | Client portal for freelancers and agencies: organizations with role-based access, invitations, projects and tasks, with each client isolated to their own work. Includes a STRIDE threat model, ADRs and integration tests for auth, CSRF and IDOR. | Next.js · Express · TypeScript · PostgreSQL · Prisma · GitHub Actions |
+
+<!-- Add more projects as they are ready (3–4 strong projects are better than 10 small ones):
 | [Project name](https://github.com/AleReyes77/REPO) | What it does and what problem it solves | Django · Docker · GitHub Actions |
 | [CTF Writeups](https://github.com/AleReyes77/REPO) | Solutions and notes from labs and CTF machines | Kali Linux · Burp Suite · Nmap |
+-->
 
 ---
 
